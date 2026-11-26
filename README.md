@@ -30,12 +30,6 @@ I also used JUnit to test hand rankings, payout calculations, deck initializatio
 
 ## Project Screenshots
 
-### Figma Wireframe
-
-![Figma Wireframe](images/wireframe.png)
-
-Initial design of the application's user interface.
-
 ### Welcome Screen
 
 <img width="1247" height="850" alt="welcome-screen" src="https://github.com/user-attachments/assets/d9e0959b-83da-416e-8c53-8d5b57404574" />
