@@ -38,18 +38,18 @@ Initial design of the application's user interface.
 
 ### Welcome Screen
 
-![Welcome Screen](images/welcome-screen.png)
+<img width="1247" height="850" alt="welcome-screen" src="https://github.com/user-attachments/assets/d9e0959b-83da-416e-8c53-8d5b57404574" />
 
 Allows users to start a game or view the rules.
 
 ### Game Play Screen
 
-![Game Play Screen](images/gameplay-screen.png)
+<img width="1917" height="1016" alt="gameplay-screen" src="https://github.com/user-attachments/assets/789a0b39-9049-448e-894a-d542a787bc2a" />
 
 Displays player cards, wagers, and Play or Fold controls.
 
 ### Results Screen
 
-![Results Screen](images/results-screen.png)
+<img width="1916" height="1018" alt="results-screen" src="https://github.com/user-attachments/assets/b4785d8d-dd78-4304-a79d-fed677a514ed" />
 
 Displays round outcomes and player winnings.
